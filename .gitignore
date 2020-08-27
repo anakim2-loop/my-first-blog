@@ -1,0 +1,9 @@
+*.pyc
+*~
+__pycache__
+myvenv
+db.sqlite3
+get-pip.py
+/static
+.DS_Store
+Git
